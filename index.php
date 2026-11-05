@@ -1,5 +1,5 @@
 <html lang="en">
-
+//Gwapo si janpol
 <?php include '_head.php'; ?>
 
 <body>
@@ -22,7 +22,7 @@
                         <a class="nav-link text-secondary" href="#features">Features</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#pricing">Pricing</a>
+                        <a class="nav-link text-secondary" href="#pricing">Prices</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-secondary" href="#about">About</a>
