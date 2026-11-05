@@ -1,5 +1,7 @@
 <html lang="en">
 //Gwapo si janpol
+//Gwapo si camus
+
 <?php include '_head.php'; ?>
 
 <body>
